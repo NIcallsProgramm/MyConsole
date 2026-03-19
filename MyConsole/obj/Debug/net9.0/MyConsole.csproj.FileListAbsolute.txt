@@ -1,0 +1,15 @@
+G:\3.ProgrammProjects\MyConsole\MyConsole\obj\Debug\net9.0\MyConsole.GeneratedMSBuildEditorConfig.editorconfig
+G:\3.ProgrammProjects\MyConsole\MyConsole\obj\Debug\net9.0\MyConsole.AssemblyInfoInputs.cache
+G:\3.ProgrammProjects\MyConsole\MyConsole\obj\Debug\net9.0\MyConsole.AssemblyInfo.cs
+G:\3.ProgrammProjects\MyConsole\MyConsole\obj\Debug\net9.0\MyConsole.csproj.CoreCompileInputs.cache
+G:\3.ProgrammProjects\MyConsole\MyConsole\obj\Debug\net9.0\MyConsole.sourcelink.json
+G:\3.ProgrammProjects\MyConsole\MyConsole\bin\Debug\net9.0\MyConsole.exe
+G:\3.ProgrammProjects\MyConsole\MyConsole\bin\Debug\net9.0\MyConsole.deps.json
+G:\3.ProgrammProjects\MyConsole\MyConsole\bin\Debug\net9.0\MyConsole.runtimeconfig.json
+G:\3.ProgrammProjects\MyConsole\MyConsole\bin\Debug\net9.0\MyConsole.dll
+G:\3.ProgrammProjects\MyConsole\MyConsole\bin\Debug\net9.0\MyConsole.pdb
+G:\3.ProgrammProjects\MyConsole\MyConsole\obj\Debug\net9.0\MyConsole.dll
+G:\3.ProgrammProjects\MyConsole\MyConsole\obj\Debug\net9.0\refint\MyConsole.dll
+G:\3.ProgrammProjects\MyConsole\MyConsole\obj\Debug\net9.0\MyConsole.pdb
+G:\3.ProgrammProjects\MyConsole\MyConsole\obj\Debug\net9.0\MyConsole.genruntimeconfig.cache
+G:\3.ProgrammProjects\MyConsole\MyConsole\obj\Debug\net9.0\ref\MyConsole.dll

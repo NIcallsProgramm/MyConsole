@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using System.Collections.Generic;
+using System.Text.Json;
 using MyConsole;
 
 namespace MyConsole;
@@ -9,42 +10,30 @@ public static class Program
 {
     public static void Main()
     {
-        MyConsole Display = new MyConsole(20);
+        MyConsole Display = new MyConsole();
         bool h = false;
         float w = 7666f;
-        int indexW = 0;
-        int indexH = 0;
-        Cureor Default = new Cursor();
-        Cursor Center = new Cursor();
-        Cursor Left = new Cursor();
-        Dictionary Position = new Dictionary();
-        ConsoleKeyInfo input;
-        List<Cursor> coords = new List<Cursor>();
-
+        int SelectButton;
+        List <Cursor> Buttons = new List<Cursor>();
         Display.Title(ConsoleColor.Yellow);
         Display.TitleText("Gamememe", default, ConsoleColor.Yellow);
-        coords.Add(Display.WriteLine("button1"));
-        coords.Add(Display.WriteLine("button2"));
-        coords.Add(Display.WriteLine("button3"));
-        coords.Add(Display.WriteLine("button4"));
-        while (true)
+        Buttons.Add(Display.WriteLine("Старт"));
+        Buttons.Add(Display.WriteLine("Авторы"));
+        Buttons.Add(Display.WriteLine("Настройки"));
+        Buttons.Add(Display.WriteLine("Выход"));
+        Display.SelectChar('-', Buttons, out SelectButton);
+        Console.Clear();
+        switch (SelectButton)
         {
-            Display.SelectChar('<', coords[indexW], coords[indexW]);
-            input = Console.ReadKey();
-            switch (input.Key)
-            {
-                case ConsoleKey.A:
-                    indexH--; break;
-                case ConsoleKey.D:
-                    indexH++; break;
-                case ConsoleKey.W:
-                    indexW = Math.Max(0, indexW--); break;
-                case ConsoleKey.S:
-                    indexW = Math.Min(indexW, indexW++); break;
-                default: break;
-            }
+            case 0:
+                Display.WriteLine("Старт"); break;
+            case 1:
+                Display.WriteLine("Авторы"); break;
+            case 2:
+                Display.WriteLine("Настройки"); break;
+            case 3:
+                Display.WriteLine("Выход"); break;
+            default: break;
         }
-        //Console.WriteLine(w);
-
     }
 }
