@@ -4,9 +4,9 @@ using System.Collections.Generic;
 
 namespace MyConsole;
 
-public partial class MyConsole
+partial class MyConsole
 {
-    int I;
+    int I = 0;
     public MyConsole(int i = 0)
     {
         I = i;
