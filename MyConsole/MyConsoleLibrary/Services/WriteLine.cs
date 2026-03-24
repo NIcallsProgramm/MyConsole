@@ -32,6 +32,7 @@ public partial class MyConsole
         Console.SetCursorPosition(0, y + 1);
         return new Cursor(x - (input.Length), y, input.Length);
     }
+
     public Cursor WriteLine(char input, string pos = null, ConsoleColor TC = ConsoleColor.White, ConsoleColor BgC = ConsoleColor.Black)
     {
         int _windowwidth = Console.WindowWidth - I;
@@ -56,6 +57,7 @@ public partial class MyConsole
         Console.SetCursorPosition(0, Console.CursorTop + 1);
         return new Cursor(Console.CursorLeft, Console.CursorTop, 1);
     }
+
     public Cursor WriteLine(int iinput, string pos = null, ConsoleColor TC = ConsoleColor.White, ConsoleColor BgC = ConsoleColor.Black)
     {
         int _windowwidth = Console.WindowWidth - I;
@@ -83,6 +85,7 @@ public partial class MyConsole
         Console.SetCursorPosition(0, y + 1);
         return new Cursor(x - (input.Length), y, input.Length);
     }
+
     public Cursor WriteLine(bool iinput, string pos = null, ConsoleColor TC = ConsoleColor.White, ConsoleColor BgC = ConsoleColor.Black)
     {
         int _windowwidth = Console.WindowWidth - I;
@@ -110,6 +113,7 @@ public partial class MyConsole
         Console.SetCursorPosition(0, y + 1);
         return new Cursor(x - (input.Length), y, input.Length);
     }
+
     public Cursor WriteLine(double iinput, string pos = null, ConsoleColor TC = ConsoleColor.White, ConsoleColor BgC = ConsoleColor.Black)
     {
         int _windowwidth = Console.WindowWidth - I;
@@ -137,5 +141,4 @@ public partial class MyConsole
         Console.SetCursorPosition(0, y + 1);
         return new Cursor(x - (input.Length), y, input.Length);
     }
-
 }
