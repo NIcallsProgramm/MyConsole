@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text.Json;
 using MyConsole;
 
-namespace MyConsole.ASCII;
+namespace MyConsole;
 
 public static class Program
 {

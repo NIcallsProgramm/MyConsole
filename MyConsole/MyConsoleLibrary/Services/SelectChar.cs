@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 
-namespace MyConsole.ASCII;
+namespace MyConsole;
 
 public partial class MyConsole
 {

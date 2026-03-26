@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyConsole.ASCII
+namespace MyConsole
 {
     static public class Position
     {
