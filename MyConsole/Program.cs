@@ -17,10 +17,10 @@ public static class Program
         List<Cursor> Buttons = new List<Cursor>();
         Display.Title(ConsoleColor.Yellow);
         Display.TitleText("Gamememe", default, ConsoleColor.Yellow);
-        Buttons.Add(Display.WriteLine("Старт"));
-        Buttons.Add(Display.WriteLine("Авторы"));
-        Buttons.Add(Display.WriteLine("Настройки"));
-        Buttons.Add(Display.WriteLine("Выход"));
+        Buttons.Add(Display.WriteLine("Старт", Position.Center()));
+        Buttons.Add(Display.WriteLine("Авторы", Position.Center()));
+        Buttons.Add(Display.WriteLine("Настройки", Position.Center()));
+        Buttons.Add(Display.WriteLine("Выход", Position.Center()));
         Display.SelectChar('-', Buttons, out SelectButton);
         Console.Clear();
         switch (SelectButton)

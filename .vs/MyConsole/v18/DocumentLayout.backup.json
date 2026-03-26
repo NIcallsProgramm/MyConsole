@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "G:\\3.ProgrammProjects\\MyConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\myconsolelibrary\\models\\myconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\myconsolelibrary\\models\\myconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\myconsolelibrary\\services\\writeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\myconsolelibrary\\services\\writeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\3.ProgrammProjects\\MyConsole\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\myconsolelibrary\\services\\writecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\myconsolelibrary\\services\\writecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\myconsolelibrary\\services\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\myconsolelibrary\\services\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\myconsolelibrary\\services\\writelinewithpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\myconsolelibrary\\services\\writelinewithpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\myconsolelibrary\\services\\selectchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\myconsolelibrary\\services\\selectchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\myconsolelibrary\\services\\writeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\myconsolelibrary\\services\\writeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\myconsolelibrary\\models\\myconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\myconsolelibrary\\models\\myconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\myconsolelibrary\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\myconsolelibrary\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\myconsolelibrary\\models\\cursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\myconsolelibrary\\models\\cursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\myconsolelibrary\\services\\writelinewithpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\myconsolelibrary\\services\\writelinewithpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\myconsolelibrary\\services\\selectchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\myconsolelibrary\\services\\selectchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|g:\\3.programmprojects\\myconsole\\myconsole\\myconsolelibrary\\services\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812D9ACE-AF58-4AE1-8A36-0B5A1D59C246}|MyConsole\\MyConsole.csproj|solutionrelative:myconsole\\myconsolelibrary\\services\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +62,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "G:\\3.ProgrammProjects\\MyConsole\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "G:\\3.ProgrammProjects\\MyConsole\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-26T05:15:20.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Position.cs",
+              "DocumentMoniker": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "MyConsole\\MyConsoleLibrary\\Models\\Position.cs",
+              "ToolTip": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Models\\Position.cs",
+              "RelativeToolTip": "MyConsole\\MyConsoleLibrary\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:32:22.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "WriteCenter.cs",
               "DocumentMoniker": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Services\\WriteCenter.cs",
               "RelativeDocumentMoniker": "MyConsole\\MyConsoleLibrary\\Services\\WriteCenter.cs",
               "ToolTip": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Services\\WriteCenter.cs",
               "RelativeToolTip": "MyConsole\\MyConsoleLibrary\\Services\\WriteCenter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T12:42:08.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Title.cs",
               "DocumentMoniker": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Services\\Title.cs",
               "RelativeDocumentMoniker": "MyConsole\\MyConsoleLibrary\\Services\\Title.cs",
@@ -80,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Cursor.cs",
               "DocumentMoniker": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Models\\Cursor.cs",
               "RelativeDocumentMoniker": "MyConsole\\MyConsoleLibrary\\Models\\Cursor.cs",
@@ -93,65 +127,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MyConsole.cs",
               "DocumentMoniker": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Models\\MyConsole.cs",
               "RelativeDocumentMoniker": "MyConsole\\MyConsoleLibrary\\Models\\MyConsole.cs",
               "ToolTip": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Models\\MyConsole.cs",
               "RelativeToolTip": "MyConsole\\MyConsoleLibrary\\Models\\MyConsole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T12:41:14.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "SelectChar.cs",
               "DocumentMoniker": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Services\\SelectChar.cs",
               "RelativeDocumentMoniker": "MyConsole\\MyConsoleLibrary\\Services\\SelectChar.cs",
               "ToolTip": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Services\\SelectChar.cs",
               "RelativeToolTip": "MyConsole\\MyConsoleLibrary\\Services\\SelectChar.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T10:44:51.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "WriteLineWithPos.cs",
               "DocumentMoniker": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Services\\WriteLineWithPos.cs",
               "RelativeDocumentMoniker": "MyConsole\\MyConsoleLibrary\\Services\\WriteLineWithPos.cs",
               "ToolTip": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Services\\WriteLineWithPos.cs",
               "RelativeToolTip": "MyConsole\\MyConsoleLibrary\\Services\\WriteLineWithPos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T09:34:03.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "WriteLine.cs",
               "DocumentMoniker": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Services\\WriteLine.cs",
               "RelativeDocumentMoniker": "MyConsole\\MyConsoleLibrary\\Services\\WriteLine.cs",
               "ToolTip": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\MyConsoleLibrary\\Services\\WriteLine.cs",
               "RelativeToolTip": "MyConsole\\MyConsoleLibrary\\Services\\WriteLine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T09:31:37.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\Program.cs",
               "RelativeDocumentMoniker": "MyConsole\\Program.cs",
-              "ToolTip": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\Program.cs*",
-              "RelativeToolTip": "MyConsole\\Program.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAdAAAAAAAAAA==",
+              "ToolTip": "G:\\3.ProgrammProjects\\MyConsole\\MyConsole\\Program.cs",
+              "RelativeToolTip": "MyConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T09:22:43.149Z",
               "EditorCaption": ""

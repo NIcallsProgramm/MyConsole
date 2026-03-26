@@ -10,7 +10,7 @@ namespace MyConsole
     {
         public Cursor WriteLine(string input, Cursor pos, ConsoleColor TC = ConsoleColor.White, ConsoleColor BgC = ConsoleColor.Black)
         {
-            Console.SetCursorPosition(pos.X, pos.Y);
+            Console.SetCursorPosition(pos.X - input.Length, pos.Y);
             Console.ForegroundColor = TC;
             Console.BackgroundColor = BgC;
             Console.Write(input);
@@ -23,7 +23,7 @@ namespace MyConsole
         public Cursor WriteLine(char input, Cursor pos, ConsoleColor TC = ConsoleColor.White, ConsoleColor BgC = ConsoleColor.Black)
         {
 
-            Console.SetCursorPosition(pos.X, pos.Y);
+            Console.SetCursorPosition(pos.X - 1, pos.Y);
             Console.ForegroundColor = TC;
             Console.BackgroundColor = BgC;
             Console.Write(input);
@@ -34,7 +34,7 @@ namespace MyConsole
         public Cursor WriteLine(int iinput, Cursor pos, ConsoleColor TC = ConsoleColor.White, ConsoleColor BgC = ConsoleColor.Black)
         {
             string input = iinput.ToString();
-            Console.SetCursorPosition(pos.X, pos.Y);
+            Console.SetCursorPosition(pos.X - input.Length, pos.Y);
             Console.ForegroundColor = TC;
             Console.BackgroundColor = BgC;
             Console.Write(input);
@@ -47,7 +47,7 @@ namespace MyConsole
         public Cursor WriteLine(bool iinput, Cursor pos, ConsoleColor TC = ConsoleColor.White, ConsoleColor BgC = ConsoleColor.Black)
         {
             string input = iinput.ToString();
-            Console.SetCursorPosition(pos.X, pos.Y);
+            Console.SetCursorPosition(pos.X - input.Length, pos.Y);
             Console.ForegroundColor = TC;
             Console.BackgroundColor = BgC;
             Console.Write(input);
@@ -60,7 +60,7 @@ namespace MyConsole
         public Cursor WriteLine(double iinput, Cursor pos, ConsoleColor TC = ConsoleColor.White, ConsoleColor BgC = ConsoleColor.Black)
         {
             string input = iinput.ToString();
-            Console.SetCursorPosition(pos.X, pos.Y);
+            Console.SetCursorPosition(pos.X - input.Length, pos.Y);
             Console.ForegroundColor = TC;
             Console.BackgroundColor = BgC;
             Console.Write(input);
