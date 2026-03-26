@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 
-namespace MyConsole;
+namespace MyConsole.ASCII;
 
 public class Cursor
 {

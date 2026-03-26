@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyConsole</id>
+    <version>1.0.0</version>
+    <authors>MyConsole</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="26ebd881dfb22ef84d8e78cfbc2d1cc7da85c912" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="G:\3.ProgrammProjects\MyConsole\MyConsole\bin\Debug\net9.0\MyConsole.runtimeconfig.json" target="lib\net9.0\MyConsole.runtimeconfig.json" />
+    <file src="G:\3.ProgrammProjects\MyConsole\MyConsole\bin\Debug\net9.0\MyConsole.dll" target="lib\net9.0\MyConsole.dll" />
+  </files>
+</package>
