@@ -6,6 +6,7 @@ namespace MyConsole;
 
 public partial class MyConsole
 {
+    const int WindowsWidth = Console.WindowWidth - I;
     public Cursor Title(ConsoleColor BgC = ConsoleColor.Black)
     {
         string title = new string(' ', Console.WindowWidth - I);
@@ -18,7 +19,6 @@ public partial class MyConsole
     }
     public Cursor TitleText(string input, ConsoleColor TC = ConsoleColor.White, ConsoleColor BgC = ConsoleColor.Black)
     {
-        int WindowsWidth = Console.WindowWidth - I;
         string title = new string(' ', (WindowsWidth - input.Length) / 2);
         Console.BackgroundColor = BgC;
         Console.ForegroundColor = TC;
